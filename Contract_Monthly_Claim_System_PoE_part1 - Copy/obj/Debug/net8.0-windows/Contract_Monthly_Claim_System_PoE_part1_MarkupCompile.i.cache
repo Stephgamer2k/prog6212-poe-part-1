@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 C:\Users\nseng\OneDrive\Desktop\C# projects\Contract_Monthly_Claim_System_PoE_part1\App.xaml
-3629739055
+4-1053198708
 
-8-186220341
+9-1170187956
 1981839832580
-Login.xaml;MainWindow.xaml;Register.xaml;
+Login.xaml;MainWindow.xaml;Register.xaml;SubmitClaim.xaml;
 
 False
 

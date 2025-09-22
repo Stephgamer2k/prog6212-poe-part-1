@@ -8,5 +8,8 @@
     <Compile Update="Register.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="SubmitClaim.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
