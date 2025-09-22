@@ -1,0 +1,25 @@
+﻿<Window x:Class="Contract_Monthly_Claim_System_PoE_part1.Manage_Lecturer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Contract_Monthly_Claim_System_PoE_part1"
+        mc:Ignorable="d"
+        Title="Manage_Lecturer" Height="500" Width="600">
+    <Canvas>
+        <Label Content="Manage Lecturer" Canvas.Left="176" Canvas.Top="34" FontSize="30" FontWeight="Bold"/>
+        <ListView Height="233" Width="524"  HorizontalAlignment="Center" Canvas.Top="89" VerticalAlignment="Top" Canvas.Left="38">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" Width="100"/>
+                    <GridViewColumn Header="Email" Width="100"/>
+                    <GridViewColumn Header="Hourly Rate" Width="100"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Hourly Rate:" Canvas.Left="164" Canvas.Top="349" FontSize="16"/>
+        <TextBox x:Name="TextBox_HourlyRate" Canvas.Left="282" TextWrapping="Wrap" Canvas.Top="356" Width="166" Height="24"/>
+        <Button x:Name="btn_UpdateLecturer" Content="Update" Canvas.Left="228" Canvas.Top="414" HorizontalAlignment="Center" VerticalAlignment="Top" Width="144" Height="40" FontSize="20" FontWeight="Bold"/>
+
+    </Canvas>
+</Window>

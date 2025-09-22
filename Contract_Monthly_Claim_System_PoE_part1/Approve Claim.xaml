@@ -1,0 +1,25 @@
+﻿<Window x:Class="Contract_Monthly_Claim_System_PoE_part1.Approve_Claim"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Contract_Monthly_Claim_System_PoE_part1"
+        mc:Ignorable="d"
+        Title="Approve_Claim" Height="500" Width="600">
+    <Canvas>
+        <Label Content="Approve or Reject Claims" Canvas.Left="118" Canvas.Top="55" FontSize="30" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <DataGrid Height="257" Width="516"  HorizontalAlignment="Left" Canvas.Top="110" VerticalAlignment="Center" Canvas.Left="40" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Lecturer" Width="100"/>
+                <DataGridTextColumn Header="Hours" Width="100"/>
+                <DataGridTextColumn Header="Amount" Width="100"/>
+                <DataGridTextColumn Header="Status" Width="100"/>
+            </DataGrid.Columns>
+
+
+        </DataGrid>
+        <Button x:Name="btn_ApproveClaim" Content="Approve Claim" Canvas.Left="102" Canvas.Top="402" Height="49" Width="141" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" FontSize="18"/>
+        <Button x:Name="btn_RejectClaim" Content="Reject Claim" Canvas.Left="364" Canvas.Top="402" Height="49" Width="138" HorizontalAlignment="Center" VerticalAlignment="Top" Click="Button_Click" FontSize="18" FontWeight="Bold"/>
+
+    </Canvas>
+</Window>

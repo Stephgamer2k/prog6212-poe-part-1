@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\Contract_Monthly_Claim_System_PoE_part1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0740A8E3-FA06-486D-A767-9A623C5E8AC6}|Contract_Monthly_Claim_System_PoE_part1.csproj|c:\\users\\nseng\\onedrive\\desktop\\c# projects\\contract_monthly_claim_system_poe_part1\\lecturer dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0740A8E3-FA06-486D-A767-9A623C5E8AC6}|Contract_Monthly_Claim_System_PoE_part1.csproj|solutionrelative:lecturer dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0740A8E3-FA06-486D-A767-9A623C5E8AC6}|Contract_Monthly_Claim_System_PoE_part1.csproj|c:\\users\\nseng\\onedrive\\desktop\\c# projects\\contract_monthly_claim_system_poe_part1\\approve claim.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0740A8E3-FA06-486D-A767-9A623C5E8AC6}|Contract_Monthly_Claim_System_PoE_part1.csproj|solutionrelative:approve claim.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0740A8E3-FA06-486D-A767-9A623C5E8AC6}|Contract_Monthly_Claim_System_PoE_part1.csproj|c:\\users\\nseng\\onedrive\\desktop\\c# projects\\contract_monthly_claim_system_poe_part1\\claim history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0740A8E3-FA06-486D-A767-9A623C5E8AC6}|Contract_Monthly_Claim_System_PoE_part1.csproj|solutionrelative:claim history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0740A8E3-FA06-486D-A767-9A623C5E8AC6}|Contract_Monthly_Claim_System_PoE_part1.csproj|c:\\users\\nseng\\onedrive\\desktop\\c# projects\\contract_monthly_claim_system_poe_part1\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0740A8E3-FA06-486D-A767-9A623C5E8AC6}|Contract_Monthly_Claim_System_PoE_part1.csproj|solutionrelative:register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0740A8E3-FA06-486D-A767-9A623C5E8AC6}|Contract_Monthly_Claim_System_PoE_part1.csproj|c:\\users\\nseng\\onedrive\\desktop\\c# projects\\contract_monthly_claim_system_poe_part1\\manage lecturer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0740A8E3-FA06-486D-A767-9A623C5E8AC6}|Contract_Monthly_Claim_System_PoE_part1.csproj|solutionrelative:manage lecturer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0740A8E3-FA06-486D-A767-9A623C5E8AC6}|Contract_Monthly_Claim_System_PoE_part1.csproj|c:\\users\\nseng\\onedrive\\desktop\\c# projects\\contract_monthly_claim_system_poe_part1\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0740A8E3-FA06-486D-A767-9A623C5E8AC6}|Contract_Monthly_Claim_System_PoE_part1.csproj|solutionrelative:login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0740A8E3-FA06-486D-A767-9A623C5E8AC6}|Contract_Monthly_Claim_System_PoE_part1.csproj|c:\\users\\nseng\\onedrive\\desktop\\c# projects\\contract_monthly_claim_system_poe_part1\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0740A8E3-FA06-486D-A767-9A623C5E8AC6}|Contract_Monthly_Claim_System_PoE_part1.csproj|solutionrelative:register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,30 +35,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Lecturer Dashboard.xaml",
-              "DocumentMoniker": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\Contract_Monthly_Claim_System_PoE_part1\\Lecturer Dashboard.xaml",
-              "RelativeDocumentMoniker": "Lecturer Dashboard.xaml",
-              "ToolTip": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\Contract_Monthly_Claim_System_PoE_part1\\Lecturer Dashboard.xaml",
-              "RelativeToolTip": "Lecturer Dashboard.xaml",
+              "Title": "Approve Claim.xaml",
+              "DocumentMoniker": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\Contract_Monthly_Claim_System_PoE_part1\\Approve Claim.xaml",
+              "RelativeDocumentMoniker": "Approve Claim.xaml",
+              "ToolTip": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\Contract_Monthly_Claim_System_PoE_part1\\Approve Claim.xaml",
+              "RelativeToolTip": "Approve Claim.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-22T16:19:24.699Z",
+              "WhenOpened": "2025-09-22T16:55:13.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Claim History.xaml",
-              "DocumentMoniker": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\Contract_Monthly_Claim_System_PoE_part1\\Claim History.xaml",
-              "RelativeDocumentMoniker": "Claim History.xaml",
-              "ToolTip": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\Contract_Monthly_Claim_System_PoE_part1\\Claim History.xaml",
-              "RelativeToolTip": "Claim History.xaml",
+              "Title": "Manage Lecturer.xaml",
+              "DocumentMoniker": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\Contract_Monthly_Claim_System_PoE_part1\\Manage Lecturer.xaml",
+              "RelativeDocumentMoniker": "Manage Lecturer.xaml",
+              "ToolTip": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\Contract_Monthly_Claim_System_PoE_part1\\Manage Lecturer.xaml",
+              "RelativeToolTip": "Manage Lecturer.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-22T16:19:04.019Z",
+              "WhenOpened": "2025-09-22T16:54:44.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Login.xaml",
               "DocumentMoniker": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\Contract_Monthly_Claim_System_PoE_part1\\Login.xaml",
               "RelativeDocumentMoniker": "Login.xaml",
@@ -69,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Register.xaml",
               "DocumentMoniker": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\Contract_Monthly_Claim_System_PoE_part1\\Register.xaml",
               "RelativeDocumentMoniker": "Register.xaml",
