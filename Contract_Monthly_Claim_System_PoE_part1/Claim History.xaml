@@ -1,0 +1,23 @@
+﻿<Window x:Class="Contract_Monthly_Claim_System_PoE_part1.Claim_History"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Contract_Monthly_Claim_System_PoE_part1"
+        mc:Ignorable="d"
+        Title="Claim_History" Height="500" Width="580">
+    <Canvas>
+        <Label Content="Claim History" Canvas.Left="173" Canvas.Top="39" FontSize="35" FontWeight="Bold"/>
+        <ListView Height="292" Width="537"  HorizontalAlignment="Center" Canvas.Top="101" VerticalAlignment="Top" Canvas.Left="20">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Date" Width="100"/>
+                    <GridViewColumn Header="Hours" Width="100"/>
+                    <GridViewColumn Header="Amount" Width="100"/>
+                    <GridViewColumn Header="Status" Width="100"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Canvas>
+</Window>
